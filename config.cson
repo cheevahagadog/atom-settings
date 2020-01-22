@@ -1,0 +1,25 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#4134b2"
+      accentColor: "#cbdf21"
+      genAccent: true
+      paintCursor: true
+  "atom-terminal":
+    MacWinRunDirectly: true
+  core:
+    disabledPackages: [
+      "linter"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+    useTreeSitterParsers: false
+  "exception-reporting":
+    userId: "2c3face0-b363-44ad-b6ca-685fa17355d1"
+  kite:
+    showWelcomeNotificationOnStartup: false
+  "terminal-plus":
+    style: {}
